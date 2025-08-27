@@ -289,6 +289,9 @@
   .z-1000 {
     z-index: 1000;
   }
+  .z-\[1000\] {
+    z-index: 1000;
+  }
   .row-start-1 {
     grid-row-start: 1;
   }
@@ -387,6 +390,9 @@
   }
   .h-12 {
     height: calc(var(--spacing) * 12);
+  }
+  .h-\[1\] {
+    height: 1;
   }
   .h-\[1px\] {
     height: 1px;
