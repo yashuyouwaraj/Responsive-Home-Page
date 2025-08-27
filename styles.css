@@ -2,6 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import "tailwindcss";
 
+
+@layer base{
+    body{
+        @apply font-body;
+    }
+
+    h1,h2,h3{
+        @apply font-display text-gray-800 font-medium;
+    }
+}
+
 @theme{
     --font-display: "Poppins", sans-serif;
     --font-body: "Inter", sans-serif;
