@@ -14,15 +14,15 @@ A responsive **landing page clone** of the ToDesktop website, built using **HTML
 
 ### 🏠 Home Section
 
-![Home Section](https://files.chatgpt.com/file_00000000f46c620e9941b1f69cc02a9c)
+![Home Section](./Screenshot 2025-10-30 221923.png)
 
 ### 💼 Apps Showcase
 
-![Apps Showcase](https://files.chatgpt.com/file_000000001e9c6230b235c0221e77c927)
+![Apps Showcase](./Screenshot 2025-10-30 222011.png)
 
 ### ⚙️ Features Section
 
-![Features Section](https://files.chatgpt.com/file_00000000336c620a943d0facd807ec18)
+![Features Section](./Screenshot 2025-10-30 222043.png)
 
 ---
 
