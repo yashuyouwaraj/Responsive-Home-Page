@@ -14,15 +14,15 @@ A responsive **landing page clone** of the ToDesktop website, built using **HTML
 
 ### 🏠 Home Section
 
-![Home Section](./Screenshot 2025-10-30 221923.png)
+![Home Section](./Screenshot%2025-10-30%221923.png)
 
 ### 💼 Apps Showcase
 
-![Apps Showcase](./Screenshot 2025-10-30 222011.png)
+![Apps Showcase](./Screenshot%2025-10-30%222011.png)
 
 ### ⚙️ Features Section
 
-![Features Section](./Screenshot 2025-10-30 222043.png)
+![Features Section](./Screenshot%2025-10-30%222043.png)
 
 ---
 
